@@ -1,5 +1,3 @@
-# xss-listener
-
 #  Custom XSS Cookie Stealer & Listener
 
 A lightweight Python-based HTTP listener designed to bypass **CGNAT** and **Port Forwarding** limitations during XSS (Cross-Site Scripting) attacks. Unlike standard Netcat listeners, this tool provides automatic **Base64 decoding** and handles **CORS headers** for more reliable data exfiltration.
@@ -15,4 +13,4 @@ This tool solves that by:
 
 1. **Clone the Repo:**
 git clone https://github.com/zainroot3/xss-listener.git
-and run python file
+python3 xss-listener.py
