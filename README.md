@@ -12,5 +12,5 @@ This tool solves that by:
 ## 🛠️ Installation & Usage
 
 1. **Clone the Repo:**
-git clone https://github.com/zainroot3/xss-listener.git
-python3 xss-listener.py
+- git clone https://github.com/zainroot3/xss-listener.git
+- python3 xss-listener.py
